@@ -18,6 +18,6 @@ On *:Text:botduckoutputhere:##chats:{
 
 ; You will not need to edit anything below here.
 
-on *:LOAD:/echo Auto duckhunt bang/befriend script v1.0 loaded! - https://detectivetaco.net
+on *:LOAD:/echo Auto duckhunt bang/befriend script v1.0 loaded!
 
 on *:UNLOAD:/echo Script $script has been unloaded. 
