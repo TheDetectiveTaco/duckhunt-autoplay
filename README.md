@@ -3,10 +3,10 @@ An mIRC script to help you always either bang, or befriend ducks while playing d
 
 ## Install
 
-* 1. Download the .mrc file and place it in your mIRC scripts dir.
+1. Download the .mrc file and place it in your mIRC scripts dir.
 
-* 2. Open the .mrc file with a text editor of your choice and edit/add as needed. (I suggest Notepad++)
+2. Open the .mrc file with a text editor of your choice and edit/add as needed. (I suggest Notepad++)
 
-* 3. Save the .mrc file.
+3. Save the .mrc file.
 
-* 4. Open mIRC and type /load -rsN scripts/autobangbef.mrc
+4. Open mIRC and type /load -rsN scripts/autobangbef.mrc
